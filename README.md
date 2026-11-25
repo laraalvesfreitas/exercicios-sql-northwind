@@ -1,5 +1,6 @@
-# Lista de exercícios práticos em SQL utilizando o banco de dados Northwind (W3Schools), cobrindo consultas básicas, filtros, ordenação, funções de agregação e JOINs.
 # Exercícios para Relembrar SQL 🗄️
+
+Lista de exercícios práticos em SQL utilizando o banco de dados Northwind (W3Schools), cobrindo consultas básicas, filtros, ordenação, funções de agregação e JOINs.
 
 Lista de consultas básicas e intermediárias para praticar `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`, funções de agregação (`COUNT`, `SUM`), `GROUP BY` e `JOIN`.
 
